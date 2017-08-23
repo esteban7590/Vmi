@@ -1,0 +1,21 @@
+{
+  "name": "Ultra",
+  "keywords": "ultrasonic, distance, sensor",
+  "description": "Arduino Library for Ultrasonic sensor HY-SRF05)",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/esteban7590/Ultra.git"
+  },
+  "authors":
+  [
+    {
+      "name": "Esteban Rojas",
+      "email": "esteban7590@hotmail.com"
+    }
+  ],
+
+  "version": "1.0.0",
+  "frameworks": "arduino",
+  "platforms": "*"
+}
